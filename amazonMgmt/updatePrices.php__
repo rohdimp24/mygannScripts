@@ -1,0 +1,34 @@
+<?php
+
+
+require_once ('loginDetails.php');
+set_time_limit(0);
+
+
+#get all the items which needs to be updated
+
+$query="SELECT `Id`, `AmazonId`, `SellingDate`, `Qty`, `SellingPrice` FROM  `AmazonTransactions` WHERE SellingDate <  '2015-12-19' AND SellingDate >  '2015-09-01' AND Qty >1 ORDER BY  `SellingDate` DESC ";
+$result=mysql_query($query);
+$rowsnum=mysql_num_rows($result);
+
+for($i=0;$i<$rowsnum;$i++){
+	
+	$row=mysql_fetch_row($result);
+	print_r($row);
+	$sellingPrice=$row[4];
+	$id=$row[0];
+	$qty=$row[3];
+	$updatedPrice=floatval($sellingPrice)/floatval($qty);
+	
+	/*$updateQuery="UPDATE `AmazonTransactions` SET `SellingPrice`='".$updatedPrice."' WHERE Id='".$id."'";	
+	$updateResult=mysql_query($updateQuery);
+	print_r($updateQuery);
+	echo"<br/>";
+	*/
+}
+
+
+ 
+
+
+?>

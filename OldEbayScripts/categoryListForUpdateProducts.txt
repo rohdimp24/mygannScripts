@@ -1,0 +1,107 @@
+2;AGATE STONE:Arrowhead
+3;AGATE STONE:Egg Stands
+4;AGATE STONE:Eggs
+5;AGATE STONE:Stone Chips
+6;AGATE STONE:Stone Pebbles
+7;AGATE STONE:Stone Plates
+8;AGATE STONE:Tumbled Stones
+
+10;BEADS:Abalone Beads
+11;BEADS:Bone Beads
+12;BEADS:Gemstone Beads
+13;BEADS:Glass Beads
+14;BEADS:Horn Beads
+15;BEADS:Metal Beads
+16;BEADS:Others
+17;BEADS:Pewter Charms
+18;BEADS:Resin Beads
+19;BEADS:Shell Beads
+20;BEADS:Shell Charms
+21;BEADS:Wood Beads
+
+22;BOXES:NULL
+
+23;BRACELETS:NULL
+
+25;BUFFALO HORNS:Bowl
+26;BUFFALO HORNS:Daggers
+27;BUFFALO HORNS:Drinking Cup
+28;BUFFALO HORNS:Others
+29;BUFFALO HORNS:Plate
+30;BUFFALO HORNS:Polished
+31;BUFFALO HORNS:Slices/Disc
+32;BUFFALO HORNS:Unfinished/Ro​ugh
+
+34;BUTTONS:Abalone Buttons
+35;BUTTONS:Bone Buttons
+36;BUTTONS:Horn Buttons
+37;BUTTONS:Mother of Pearl Buttons
+38;BUTTONS:Resin Buttons
+39;BUTTONS:Shell Buttons
+40;BUTTONS:Wood Buttons
+
+42;CALIFORNIA SAGE BUNDLES:Abalone Kits
+43;CALIFORNIA SAGE BUNDLES:Palo Santo Woods
+44;CALIFORNIA SAGE BUNDLES:White Sages
+
+46;CRAFTS:Jute Twine
+
+47;EARRINGS:NULL
+
+48;GLASS BOTTLES:NULL
+
+49;GLASS FLOATS:NULL
+
+50;HAIR ACCESSORIES:NULL
+
+51;HANDMADE METAL BELLS:NULL
+
+53;INLAY MATERIALS:Abalone Dots & Discs
+54;INLAY MATERIALS:Bone saddle/Nut
+55;INLAY MATERIALS:Horn Saddle/Nut
+56;INLAY MATERIALS:Shell Blanks
+
+58;JEWELERY MAKING:Beading Wire/Cord
+59;JEWELERY MAKING:Brass Caps
+60;JEWELERY MAKING:Cords/Chains
+61;JEWELERY MAKING:Earring Wires
+62;JEWELERY MAKING:Plastic Storage Boxes
+
+64;KNIFE CRAFT:Horn Plate
+65;KNIFE CRAFT:Horn Roll
+66;KNIFE CRAFT:Knife Holders
+67;KNIFE CRAFT:Others
+
+69;NECKLACES:Abalone
+70;NECKLACES:Others
+71;NECKLACES:Shell
+
+73;PENDANTS:Abalone Pendants
+74;PENDANTS:Bone Pendants
+75;PENDANTS:Gemstone Pendants
+76;PENDANTS:Horn Pendants
+77;PENDANTS:Others
+78;PENDANTS:Shell Pendants
+79;PENDANTS:Tibet Pendants
+
+80;PURSES/BAGS:NULL
+
+81;RINGS:NULL
+
+83;SEA SHELLS:Abalone Shells
+84;SEA SHELLS:Cowries
+85;SEA SHELLS:Craft Shells
+86;SEA SHELLS:Dentalium Aprinum Shells
+87;SEA SHELLS:Large Shells
+88;SEA SHELLS:Medium Shells
+89;SEA SHELLS:Nightlight/Lamp
+90;SEA SHELLS:Sand Dollars
+91;SEA SHELLS:Sea Urchins,Corals,Barnacles
+92;SEA SHELLS:Shell Novelties
+93;SEA SHELLS:Small Shells
+94;SEA SHELLS:Starfish
+95;SEA SHELLS:Windchimes/Hangers
+
+96;SHARK TEETH AND JAWS:NULL
+
+97;MISCELLANEOUS:NULL

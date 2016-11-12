@@ -1,0 +1,85 @@
+AGATE STONE:Arrowhead
+AGATE STONE:Egg Stands
+AGATE STONE:Eggs
+AGATE STONE:Stone Chips
+AGATE STONE:Stone Pebbles
+AGATE STONE:Stone Plates
+AGATE STONE:Tumbled Stones
+BEADS:Abalone Beads
+BEADS:Bone Beads
+BEADS:Gemstone Beads
+BEADS:Glass Beads
+BEADS:Horn Beads
+BEADS:Metal Beads
+BEADS:Others
+BEADS:Pewter Charms
+BEADS:Resin Beads
+BEADS:Shell Beads
+BEADS:Shell Charms
+BEADS:Wood Beads
+BOXES:NULL
+BRACELETS:NULL
+BUFFALO HORNS:Bowl
+BUFFALO HORNS:Daggers
+BUFFALO HORNS:Drinking Cup
+BUFFALO HORNS:Others
+BUFFALO HORNS:Plate
+BUFFALO HORNS:Polished
+BUFFALO HORNS:Slices/Disc
+BUFFALO HORNS:Unfinished/Ro​ugh
+BUTTONS:Abalone Buttons
+BUTTONS:Bone Buttons
+BUTTONS:Horn Buttons
+BUTTONS:Mother of Pearl Buttons
+BUTTONS:Resin Buttons
+BUTTONS:Shell Buttons
+BUTTONS:Wood Buttons
+CALIFORNIA SAGE BUNDLES:Abalone Kits
+CALIFORNIA SAGE BUNDLES:Palo Santo Woods
+CALIFORNIA SAGE BUNDLES:White Sages
+CRAFTS:Jute Twine
+EARRINGS:NULL
+GLASS BOTTLES:NULL
+GLASS FLOATS:NULL
+HAIR ACCESSORIES:NULL
+HANDMADE METAL BELLS:NULL
+INLAY MATERIALS:Abalone Dots & Discs
+INLAY MATERIALS:Bone saddle/Nut
+INLAY MATERIALS:Horn Saddle/Nut
+INLAY MATERIALS:Shell Blanks
+JEWELERY MAKING:Beading Wire/Cord
+JEWELERY MAKING:Brass Caps
+JEWELERY MAKING:Cords/Chains
+JEWELERY MAKING:Earring Wires
+JEWELERY MAKING:Plastic Storage Boxes
+KNIFE CRAFT:Horn Plate
+KNIFE CRAFT:Horn Roll
+KNIFE CRAFT:Knife Holders
+KNIFE CRAFT:Others
+NECKLACES:Abalone
+NECKLACES:Others
+NECKLACES:Shell
+PENDANTS:Abalone Pendants
+PENDANTS:Bone Pendants
+PENDANTS:Gemstone Pendants
+PENDANTS:Horn Pendants
+PENDANTS:Others
+PENDANTS:Shell Pendants
+PENDANTS:Tibet Pendants
+PURSES/BAGS:NULL
+RINGS:NULL
+SEA SHELLS:Abalone Shells
+SEA SHELLS:Cowries
+SEA SHELLS:Craft Shells
+SEA SHELLS:Dentalium Aprinum Shells
+SEA SHELLS:Large Shells
+SEA SHELLS:Medium Shells
+SEA SHELLS:Nightlight/Lamp
+SEA SHELLS:Sand Dollars
+SEA SHELLS:Sea Urchins,Corals,Barnacles
+SEA SHELLS:Shell Novelties
+SEA SHELLS:Small Shells
+SEA SHELLS:Starfish
+SEA SHELLS:Windchimes/Hangers
+SHARK TEETH AND JAWS:NULL
+MISCELLANEOUS:NULL

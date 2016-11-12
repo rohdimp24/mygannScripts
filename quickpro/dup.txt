@@ -1,0 +1,96 @@
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('7014_13302','7014','MUREX RAMOSUS  5\"-6\"','2016-08-22',
+								  '13302','SEA WICK','3.00','12.00','36.00','\"MUREX RAMOSUS  5\"-6\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('7167_12563','7167','INDIA MEDIUM MIX SHELL','2016-05-05',
+								  '12563','TREASURE HIDDEN IN THE SAND','40.00','2.00','80.00','INDIA MEDIUM MIX SHELLS')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('7566_13028','7566','LARGE INLAID SHELL BOX   9\'X6\"X3\"','2016-07-12',
+								  '13028','VIRJI IMPORTS','3.00','5.00','15.00','\"LARGE INLAID SHELL BOX   9\'X6\"X3\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('8025_12934','8025','ASST SIZES ARROWHEAD  2 1/2\"-3\"','2016-06-28',
+								  '12934','GEMSTAR JEWELRY','1.00','18.00','18.00','\"ASST SIZES ARROWHEAD  2 1/2\"-3\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('E-156_13021','E-156','ASST AMAZING MOOD EARRINGS','2016-07-12',
+								  '13021','PIER GIFTS','1.00','18.00','18.00','ASST AMAZING MOOD EARRINGS.')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-1029_12701','F-1029','TURQUOISE  GLASS FLOATS 12\"','2016-05-23',
+								  '12701','VIRJI IMPORTS','2.00','15.00','30.00','\"TURQUOISE  GLASS FLOATS 12\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-321_12553','F-321','ASST. WOOD BOXES 6\"X4','2016-05-04',
+								  '12553','4\"\"X3\"\".\"','EVANGELINE'S','2.00','42.00','\"ASST. WOOD BOXES 6\"X4\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-321_12827','F-321','ASST. WOOD BOXES 6\"X4','2016-06-10',
+								  '12827','4\"\"X3\"\".\"','SHELDON'S CLAM','6.00','42.00','\"ASST. WOOD BOXES 6\"X4\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-338_13087','F-338','SHELL INLAID WOOD TREASURE BOX  4\"X 3\"X 2 1/2\"','2016-07-20',
+								  '13087','GEMSTAR JEWELRY','4.00','9.00','36.00','\"SHELL INLAID WOOD TREASURE BOX  4\"X 3\"X 2 1/2\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-36_12910','F-36','ASST. METAL CHIMING BELLS (8PCS)  1','2016-06-23',
+								  '12910','3\"\" & 4\"\"\"','TAYLOR'S GIFTS &  BONSAI','1.00','18.00','\"ASST. METAL CHIMING BELLS (8PCS)  1\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-779E_12827','F-779E','ASST. WOOD ENGRAVED BOXES   7\" X 5','2016-06-10',
+								  '12827',' 5\"\" X 3\"\"\"','SHELDON'S CLAM','6.00','36.00','\"ASST. WOOD ENGRAVED BOXES   7\" X 5\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-900_13058','F-900','TRIPLE BLUE FLOATS 3\"4\"5\"  12 PCS MIN','2016-07-15',
+								  '13058','CALIFORNIA SEA SHELLS','72.00','4.00','288.00','\"TRIPLE BLUE FLOATS 3\"4\"5\"  12 PCS MIN\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-901_13046','F-901','CLEAR GLASS FLOAT 3\"','2016-07-14',
+								  '13046','HIGH TIDE TRADERS','1.00','18.00','18.00','\"CLEAR GLASS FLOAT 3\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-947_13007','F-947','RED GLASS FLOAT 5\"','2016-07-11',
+								  '13007','The Market Place/OR','1.00','24.00','24.00','\"RED GLASS FLOAT 5\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-948_12563','F-948','TRIPLE GLASS FLOAT 3\"4\"5\"  12 PCS MIN','2016-05-05',
+								  '12563','TREASURE HIDDEN IN THE SAND','24.00','4.00','96.00','\"TRIPLE GLASS FLOAT 3\"4\"5\"  12 PCS MIN\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('F-957_12604','F-957','PURPLE GLASS FLOATS 12\"','2016-05-11',
+								  '12604','VIRJI IMPORTS','2.00','15.00','30.00','\"PURPLE GLASS FLOATS 12\"\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('SP-01_12568','SP-01','PINK CONCH FLOWER','2016-05-06',
+								  '12568','UNIQUE INDIAN ARTS','15.00','8.00','120.00','HORN GLASS')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('SP-01_12568','SP-01','PINK CONCH FLOWER','2016-05-06',
+								  '12568','UNIQUE INDIAN ARTS','3.00','10.00','30.00','POLISHED HORNS')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('SP-01_12744','SP-01','PINK CONCH FLOWER','2016-05-31',
+								  '12744','PAULINA\'S BEADS','95.00','1.00','95.00','BONE BEADS')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('SP-01_12744','SP-01','PINK CONCH FLOWER','2016-05-31',
+								  '12744','PAULINA\'S BEADS','17.00','3.00','51.00','ASST MIX SHELLS')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('ST-153_12484','ST-153','36PCS. PUKA CHIPS STRETCH NECKLA','2016-04-21',
+								  '12484',' & ANKLET SET\"','RADER'S REEF','1.00','16.00','\"36PCS. PUKA CHIPS STRETCH NECKLACE')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('ST-153_13039','ST-153','36PCS. PUKA CHIPS STRETCH NECKLA','2016-07-13',
+								  '13039',' & ANKLET SET\"','RUDY'S SHELLS','1.00','16.00','\"36PCS. PUKA CHIPS STRETCH NECKLACE')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('ST-819_12831','ST-819','48PCS PUKA NECKLACE 18','2016-06-10',
+								  '12831','  ANKLET & EARRING SET\"','RADER'S REEF','1.00','18.00','\"48PCS PUKA NECKLACE 18\"')
+INSERT INTO `quickpro`(`Id`, `ItemId`, `ProductName`, `SellingDate`, `Num`, `CustomerName`, `Qty`,
+									`SellingPrice`, `Total`, `testProductName`)
+								  VALUES ('T-2901_12573','T-2901','SHELL BEADS','2016-05-09',
+								  '12573','SUSU\'S STUDIO & DESIGN','1.00','18.00','18.00','SHELL BEADS.')

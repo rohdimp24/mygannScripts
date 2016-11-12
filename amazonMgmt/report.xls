@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title></title>
+</head>
+
+<span style="margin-right:30px;float: right;font-weight: bold">
+    <a href="getWeeklyAmazonReport.php">Weekly</a> |
+    <a href="getMonthWiseAmazonReport.php">Monthly</a> |
+    <a href="getMonthlyAmazonReport.php">Consolidated Monthly</a> |
+    <a href="getYearlyAmazonReport.php">Yearly</a> |
+	<a href="selectYearForMonthlyDist.php" ><b>Monthly Distributed</b></a> |
+    <a href="getCustomizedAmazonReport.php">Customized</a>|
+	<a href="updateAmazonProducts.php" >Update Shipping</a> |
+	<a href="drawMonthlyDistribution.php" style="color:red">Charts (Monthly Distribution)(NEW)</a>
+</span>

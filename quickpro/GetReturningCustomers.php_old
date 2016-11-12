@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title></title>
+</head>
+
+<?php
+/**
+ * Created by PhpStorm.
+ * User: 305015992
+ * Date: 11/8/2015
+ * Time: 7:23 AM
+ */
+require_once ('login.php');
+require_once ('reportHeader.php');
+
+
+set_time_limit(0);
+
+//get the number of years from the data base
+$queryMaxMinDate="SELECT max(SellingDate), min(SellingDate) FROM `quickpro`";
+$resultMaxMinDate=mysql_query($queryMaxMinDate);
+$rowsMaxMin = mysql_fetch_row($resultMaxMinDate);
+$maxDate=$rowsMaxMin[0];
+$minDate=$rowsMaxMin[1];
+$maxYear=date('Y', strtotime($maxDate));
+$minYear=date('Y',strtotime($minDate));
+
+$currentYear=intval($maxYear);
+$prevYear=$currentYear-1;
+
+$queryCustomer="SELECT group_concat(Distinct(year(SellingDate))),CustomerName FROM `quickpro`
+                where year(SellingDate)>='".$prevYear."' group by CustomerName";
+$resultCustomer=mysql_query($queryCustomer);
+$rownum=mysql_num_rows($resultCustomer);
+
+$arrRepeatingCustomers=array();
+for($i=0;$i<$rownum;$i++){
+    $row=mysql_fetch_row($resultCustomer);
+    $years=explode(",",$row[0]);
+//    if(sizeof($years)==1){
+//        if($years[0]=='2014')
+//        {
+//            array_push($arrNonRepeatingCustomers,$row[1]);
+//        }
+//    }
+
+    if(sizeof($years)==2) //then the custome ris present for both 2014 and 2015
+    {
+
+        array_push($arrRepeatingCustomers,$row[1]);
+    }
+
+
+}
+
+echo "<br><br/>";
+echo "<h1>List of returning customers from ".$prevYear."</h1>";
+//this is the list of non repeating customers
+$lines = "<div style='margin-left:10px'><table border='1'>";
+$count=1;
+for($i=0;$i<sizeof($arrRepeatingCustomers);$i++)
+{
+
+    $lines.="<tr><td>".$count++."</td><td>".$arrRepeatingCustomers[$i]."</td></tr>";
+}
+$lines.="</table></div>";
+
+echo $lines;

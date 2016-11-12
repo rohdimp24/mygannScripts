@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GetMyeBaySellingRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+<RequesterCredentials>
+<eBayAuthToken>AgAAAA**AQAAAA**aAAAAA**XtOUVQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJkYuoDJOHoQ6dj6x9nY+seQ**wugCAA**AAMAAA**FwFnX9M6QmadloODQpkcYZ+KVJ85Ba4RIDnu0wRtpCRhUbiXtc9CE7I1oJ8qYN5QnffgkTdXwp9ebv+Zd8T1Nyz2aiJiGbSSlQYl2LH62nTy4kKVfz5eS1b4Bd03AntnVpX7/amDNTMsJEZIJ1G8jAKOLopAuJRXkBLtBsgDool0hTiMOjvDtBh3rl4X4YurHr7qMLQE8VArdTewHjKv63GbdDvOMnZJkuZeug4i+sblOQaS8RPo0zYqCJfDXW+UqQgQ7f65dAwNJhiO2KlBUKUlog9gMD7qFXkcK3l/RKAXHqq4ZmXW3jWLICOrhKLWuIwowxNyaQD71Q5ZsdxgyqHRg1Rf1Cstd+J6oZmTDM3QOJel2dEfJLA5L2Zoq5lD3Vx+xR20/IqZYQLgAf4Zs5F18Io9M+peegbJQLwY7L2v8f0WLjgDO70R01D5yF1wcncNZ8C/pgWQVOAFhy8t22Y1ofQ5hdJW/phSKx+ttslUolrBt7NdhY1JAhss6kImAGOXJA3YEhS2mrU6AROoGJLVi/5/lE87WauRJNm3ZLpQNillO5u+xw/3hO1KnJN5PVS+T57yfdOwl3o9u2zBTllXYDXTDDaA/q93yXhxpMslXcj8Oc87myWqniFJmqhzQqzb/2bPRTINB444P75BR8byYOb6zbCVqSK8ZYlaYflmFUpqVRv+N6CbhNpWnmPHr7Ie5SX7rRzG3fPurB6LBK0+QC9JhYmVEhXHelYOSUwNtc3JFuxG6EPcyYR33vSh</eBayAuthToken>
+</RequesterCredentials>
+   <DetailLevel>ReturnAll</DetailLevel>
+</GetMyeBaySellingRequest>
+
+
+X-EBAY-API-COMPATIBILITY-LEVEL:927
+X-EBAY-API-DEV-NAME:9a526ef7-463e-4865-a975-2aa52b8f02d1
+X-EBAY-API-APP-NAME:AVirji76c-212a-4502-8e93-ea765218610
+X-EBAY-API-CERT-NAME:25ec50a2-b3d6-4785-be4c-ead3fcc59c3d
+X-EBAY-API-SITEID:0
+X-EBAY-API-CALL-NAME:GetMyeBaySelling
+
+
+------
+
+X-EBAY-API-COMPATIBILITY-LEVEL:927
+X-EBAY-API-DEV-NAME:9a526ef7-463e-4865-a975-2aa52b8f02d1
+X-EBAY-API-APP-NAME:AVirji76c-212a-4502-8e93-ea765218610
+X-EBAY-API-CERT-NAME:25ec50a2-b3d6-4785-be4c-ead3fcc59c3d
+X-EBAY-API-SITEID:0
+X-EBAY-API-CALL-NAME:GetAccount
+
+<?xml version="1.0" encoding="utf-8"?>
+<GetAccountRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+<RequesterCredentials>
+<eBayAuthToken>AgAAAA**AQAAAA**aAAAAA**XtOUVQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJkYuoDJOHoQ6dj6x9nY+seQ**wugCAA**AAMAAA**FwFnX9M6QmadloODQpkcYZ+KVJ85Ba4RIDnu0wRtpCRhUbiXtc9CE7I1oJ8qYN5QnffgkTdXwp9ebv+Zd8T1Nyz2aiJiGbSSlQYl2LH62nTy4kKVfz5eS1b4Bd03AntnVpX7/amDNTMsJEZIJ1G8jAKOLopAuJRXkBLtBsgDool0hTiMOjvDtBh3rl4X4YurHr7qMLQE8VArdTewHjKv63GbdDvOMnZJkuZeug4i+sblOQaS8RPo0zYqCJfDXW+UqQgQ7f65dAwNJhiO2KlBUKUlog9gMD7qFXkcK3l/RKAXHqq4ZmXW3jWLICOrhKLWuIwowxNyaQD71Q5ZsdxgyqHRg1Rf1Cstd+J6oZmTDM3QOJel2dEfJLA5L2Zoq5lD3Vx+xR20/IqZYQLgAf4Zs5F18Io9M+peegbJQLwY7L2v8f0WLjgDO70R01D5yF1wcncNZ8C/pgWQVOAFhy8t22Y1ofQ5hdJW/phSKx+ttslUolrBt7NdhY1JAhss6kImAGOXJA3YEhS2mrU6AROoGJLVi/5/lE87WauRJNm3ZLpQNillO5u+xw/3hO1KnJN5PVS+T57yfdOwl3o9u2zBTllXYDXTDDaA/q93yXhxpMslXcj8Oc87myWqniFJmqhzQqzb/2bPRTINB444P75BR8byYOb6zbCVqSK8ZYlaYflmFUpqVRv+N6CbhNpWnmPHr7Ie5SX7rRzG3fPurB6LBK0+QC9JhYmVEhXHelYOSUwNtc3JFuxG6EPcyYR33vSh</eBayAuthToken>
+</RequesterCredentials>
+<AccountHistorySelection>BetweenSpecifiedDates</AccountHistorySelection>
+
+<BeginDate>2015-07-01</BeginDate>
+  <EndDate>2015-07-04</EndDate>
+ <Pagination> 
+    <EntriesPerPage>2000</EntriesPerPage>
+    <PageNumber>1</PageNumber>
+  </Pagination>
+
+</GetAccountRequest>​
+
+----
+
+I guess this is the one
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<GetSellingManagerSoldListingsRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+<RequesterCredentials>
+<eBayAuthToken>AgAAAA**AQAAAA**aAAAAA**XtOUVQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJkYuoDJOHoQ6dj6x9nY+seQ**wugCAA**AAMAAA**FwFnX9M6QmadloODQpkcYZ+KVJ85Ba4RIDnu0wRtpCRhUbiXtc9CE7I1oJ8qYN5QnffgkTdXwp9ebv+Zd8T1Nyz2aiJiGbSSlQYl2LH62nTy4kKVfz5eS1b4Bd03AntnVpX7/amDNTMsJEZIJ1G8jAKOLopAuJRXkBLtBsgDool0hTiMOjvDtBh3rl4X4YurHr7qMLQE8VArdTewHjKv63GbdDvOMnZJkuZeug4i+sblOQaS8RPo0zYqCJfDXW+UqQgQ7f65dAwNJhiO2KlBUKUlog9gMD7qFXkcK3l/RKAXHqq4ZmXW3jWLICOrhKLWuIwowxNyaQD71Q5ZsdxgyqHRg1Rf1Cstd+J6oZmTDM3QOJel2dEfJLA5L2Zoq5lD3Vx+xR20/IqZYQLgAf4Zs5F18Io9M+peegbJQLwY7L2v8f0WLjgDO70R01D5yF1wcncNZ8C/pgWQVOAFhy8t22Y1ofQ5hdJW/phSKx+ttslUolrBt7NdhY1JAhss6kImAGOXJA3YEhS2mrU6AROoGJLVi/5/lE87WauRJNm3ZLpQNillO5u+xw/3hO1KnJN5PVS+T57yfdOwl3o9u2zBTllXYDXTDDaA/q93yXhxpMslXcj8Oc87myWqniFJmqhzQqzb/2bPRTINB444P75BR8byYOb6zbCVqSK8ZYlaYflmFUpqVRv+N6CbhNpWnmPHr7Ie5SX7rRzG3fPurB6LBK0+QC9JhYmVEhXHelYOSUwNtc3JFuxG6EPcyYR33vSh</eBayAuthToken>
+</RequesterCredentials>
+<SaleDateRange>
+    <TimeFrom>2015-04-04</TimeFrom>
+    <TimeTo>2015-04-05</TimeTo>
+  </SaleDateRange>
+<PaginationResult>
+    <TotalNumberOfEntries>1000</TotalNumberOfEntries>
+ </PaginationResult>
+</GetSellingManagerSoldListingsRequest>​
+
+
+
+X-EBAY-API-COMPATIBILITY-LEVEL:927
+X-EBAY-API-DEV-NAME:9a526ef7-463e-4865-a975-2aa52b8f02d1
+X-EBAY-API-APP-NAME:AVirji76c-212a-4502-8e93-ea765218610
+X-EBAY-API-CERT-NAME:25ec50a2-b3d6-4785-be4c-ead3fcc59c3d
+X-EBAY-API-SITEID:0
+X-EBAY-API-CALL-NAME:GetSellingManagerSoldListings
+
+
+the parameter to check are creation date and qty sold
